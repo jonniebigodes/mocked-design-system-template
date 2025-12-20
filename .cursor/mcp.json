@@ -1,5 +1,5 @@
 {
-  "servers": {
+  "mcpServers": {
     "storybook-app-mcp-local": {
       "type": "http",
       "url": "http://localhost:6007/mcp"
